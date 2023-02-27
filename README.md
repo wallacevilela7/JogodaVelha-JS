@@ -1,7 +1,7 @@
 <h1 align="center"> Jogo da Velha  </h1>
 
-Esse é um projeto de um Jogo da velha, feito para dois players. Divirta-se =)
-This is a project of a Tic-tac-Toe game, made for two players. Have fun =)
+<p>Esse é um projeto de um Jogo da velha, feito para dois players. Divirta-se =)</p>
+<p>This is a project of a Tic-tac-Toe game, made for two players. Have fun =)</p>
 
 
 ## 🚀 Tecnologias
